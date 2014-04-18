@@ -1,0 +1,5 @@
+sis_core:
+    resource: "@SISCoreBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
